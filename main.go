@@ -5,8 +5,7 @@ package main
 import (
 	"fmt"
 
-	// TODO: インポートパスを公開したものに変更する
-	"github.com/smirror/gacha"
+	"github.com/smirror/gacha/gacha"
 )
 
 func main() {
